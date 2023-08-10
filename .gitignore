@@ -1,5 +1,5 @@
 #log files directory
-data_logs/
+.data_logs/
 
 # Visual Studio Code
 .vscode/
